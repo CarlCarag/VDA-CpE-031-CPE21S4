@@ -1,0 +1,13 @@
+Field Name,Description,Data Type
+Rank,The Number of the Athlete in the rank,int
+Athlete,The Name of the Athlete in the rank,string
+Sports,The Sport the Athlete belongs in the rank,string
+Team,The Team the Atlhete played ,string
+Nationality,The Country of the Athlete,string
+Salary,The Wage of the Athlete per Contract ,string
+Endorsements,The Brands and Advertisement of the Athlete ,string
+Total,The Total Income of the Athlete,string
+,,
+,,
+The Number of Rows(Observable) = 100,,
+The Number of Columns(Variable) =  8,,
